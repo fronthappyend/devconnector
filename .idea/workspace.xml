@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878a4da7-2df1-4e34-baae-e94524d38595" name="Default" comment="test">
-      <change beforePath="" afterPath="$PROJECT_DIR$/models/Post.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/models/Profile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/validation/education.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/validation/experience.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/validation/post.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/validation/profile.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/routes/api/posts.js" afterPath="$PROJECT_DIR$/routes/api/posts.js" />
-      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" afterPath="$PROJECT_DIR$/routes/api/profile.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,8 +69,8 @@
       <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/api/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -267,7 +259,7 @@
       <workItem from="1524852376380" duration="1431000" />
       <workItem from="1524886831360" duration="3889000" />
       <workItem from="1524973184290" duration="1287000" />
-      <workItem from="1524995545026" duration="23610000" />
+      <workItem from="1524995545026" duration="24282000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1524663259000</created>
@@ -280,7 +272,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39167000" />
+    <option name="totallyTimeSpent" value="39839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
@@ -722,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/api/posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
           <folding />
         </state>
       </provider>
